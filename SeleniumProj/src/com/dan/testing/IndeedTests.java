@@ -4,6 +4,8 @@ package com.dan.testing;
 	import org.openqa.selenium.firefox.FirefoxDriver;
 	import org.testng.Assert;
 	import org.testng.annotations.Test;
+	
+	//Doing some modification to see from Gitbash
 	 
 	public class IndeedTests {
 	    FirefoxDriver driver;
